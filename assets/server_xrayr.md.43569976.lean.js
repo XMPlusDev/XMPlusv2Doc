@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,S as o}from"./chunks/framework.f15d8f8c.js";const q=JSON.parse('{"title":"XrayR","description":"","frontmatter":{},"headers":[],"relativePath":"server/xrayr.md","filePath":"server/xrayr.md"}'),l={name:"server/xrayr.md"},e=o("",28),t=[e];function p(c,i,r,u,C,A){return a(),n("div",null,t)}const d=s(l,[["render",p]]);export{q as __pageData,d as default};

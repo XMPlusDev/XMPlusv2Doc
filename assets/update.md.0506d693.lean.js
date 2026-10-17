@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as e,S as p}from"./chunks/framework.f15d8f8c.js";const h=JSON.parse('{"title":"XMPlus v2 update","description":"","frontmatter":{},"headers":[],"relativePath":"update.md","filePath":"update.md"}'),n={name:"update.md"},t=p("",5),l=[t];function o(c,r,d,i,u,_){return a(),e("div",null,l)}const y=s(n,[["render",o]]);export{h as __pageData,y as default};
